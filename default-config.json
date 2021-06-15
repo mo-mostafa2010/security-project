@@ -1,0 +1,5 @@
+{
+    "dbSettings": {
+        "connectionString": "mongodb://admin:admin@165.22.18.97:27017/?authSource=admin&readPreference=primary&ssl=false"
+    }
+}
